@@ -1,0 +1,10 @@
+C:\Users\Cole Gartner\source\repos\Checkers\Checkers\bin\Debug\Checkers.exe.config
+C:\Users\Cole Gartner\source\repos\Checkers\Checkers\bin\Debug\Checkers.exe
+C:\Users\Cole Gartner\source\repos\Checkers\Checkers\bin\Debug\Checkers.pdb
+C:\Users\Cole Gartner\source\repos\Checkers\Checkers\obj\Debug\Checkers.csprojAssemblyReference.cache
+C:\Users\Cole Gartner\source\repos\Checkers\Checkers\obj\Debug\Checkers.FrmMain.resources
+C:\Users\Cole Gartner\source\repos\Checkers\Checkers\obj\Debug\Checkers.Properties.Resources.resources
+C:\Users\Cole Gartner\source\repos\Checkers\Checkers\obj\Debug\Checkers.csproj.GenerateResource.cache
+C:\Users\Cole Gartner\source\repos\Checkers\Checkers\obj\Debug\Checkers.csproj.CoreCompileInputs.cache
+C:\Users\Cole Gartner\source\repos\Checkers\Checkers\obj\Debug\Checkers.exe
+C:\Users\Cole Gartner\source\repos\Checkers\Checkers\obj\Debug\Checkers.pdb

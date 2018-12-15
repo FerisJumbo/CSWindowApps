@@ -1,0 +1,10 @@
+C:\Users\Cole Gartner\source\repos\CSWindowApps\ClickTheButton\ClickTheButton\obj\Debug\ClickTheButton.csprojAssemblyReference.cache
+C:\Users\Cole Gartner\source\repos\CSWindowApps\ClickTheButton\ClickTheButton\obj\Debug\ClickTheButton.FrmMain.resources
+C:\Users\Cole Gartner\source\repos\CSWindowApps\ClickTheButton\ClickTheButton\obj\Debug\ClickTheButton.Properties.Resources.resources
+C:\Users\Cole Gartner\source\repos\CSWindowApps\ClickTheButton\ClickTheButton\obj\Debug\ClickTheButton.csproj.GenerateResource.cache
+C:\Users\Cole Gartner\source\repos\CSWindowApps\ClickTheButton\ClickTheButton\obj\Debug\ClickTheButton.csproj.CoreCompileInputs.cache
+C:\Users\Cole Gartner\source\repos\CSWindowApps\ClickTheButton\ClickTheButton\bin\Debug\ClickTheButton.exe.config
+C:\Users\Cole Gartner\source\repos\CSWindowApps\ClickTheButton\ClickTheButton\bin\Debug\ClickTheButton.exe
+C:\Users\Cole Gartner\source\repos\CSWindowApps\ClickTheButton\ClickTheButton\bin\Debug\ClickTheButton.pdb
+C:\Users\Cole Gartner\source\repos\CSWindowApps\ClickTheButton\ClickTheButton\obj\Debug\ClickTheButton.exe
+C:\Users\Cole Gartner\source\repos\CSWindowApps\ClickTheButton\ClickTheButton\obj\Debug\ClickTheButton.pdb

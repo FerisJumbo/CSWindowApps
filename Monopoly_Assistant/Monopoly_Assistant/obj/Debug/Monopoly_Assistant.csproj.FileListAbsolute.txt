@@ -1,0 +1,11 @@
+C:\Users\Cole Gartner\source\repos\Monopoly_Assistant\Monopoly_Assistant\obj\Debug\Monopoly_Assistant.FrmMain.resources
+C:\Users\Cole Gartner\source\repos\Monopoly_Assistant\Monopoly_Assistant\obj\Debug\Monopoly_Assistant.FrmNewPlayer.resources
+C:\Users\Cole Gartner\source\repos\Monopoly_Assistant\Monopoly_Assistant\obj\Debug\Monopoly_Assistant.Properties.Resources.resources
+C:\Users\Cole Gartner\source\repos\Monopoly_Assistant\Monopoly_Assistant\obj\Debug\Monopoly_Assistant.csproj.GenerateResource.cache
+C:\Users\Cole Gartner\source\repos\Monopoly_Assistant\Monopoly_Assistant\obj\Debug\Monopoly_Assistant.csproj.CoreCompileInputs.cache
+C:\Users\Cole Gartner\source\repos\Monopoly_Assistant\Monopoly_Assistant\obj\Debug\Monopoly_Assistant.csprojAssemblyReference.cache
+C:\Users\Cole Gartner\source\repos\Monopoly_Assistant\Monopoly_Assistant\bin\Debug\Monopoly_Assistant.exe.config
+C:\Users\Cole Gartner\source\repos\Monopoly_Assistant\Monopoly_Assistant\bin\Debug\Monopoly_Assistant.exe
+C:\Users\Cole Gartner\source\repos\Monopoly_Assistant\Monopoly_Assistant\bin\Debug\Monopoly_Assistant.pdb
+C:\Users\Cole Gartner\source\repos\Monopoly_Assistant\Monopoly_Assistant\obj\Debug\Monopoly_Assistant.exe
+C:\Users\Cole Gartner\source\repos\Monopoly_Assistant\Monopoly_Assistant\obj\Debug\Monopoly_Assistant.pdb
